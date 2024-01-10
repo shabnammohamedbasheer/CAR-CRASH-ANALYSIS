@@ -2,16 +2,27 @@ Car crash, also known as a car accident or traffic collision, occurs when a vehi
 A study on the analysis of a data on car crash from the year 2003 - 2015 as the data is a bit old its understood that the use of navigation tools will be comparitively less , the emergence of navigation was in early 2000's but the popularity and updations were mainly after 2012...
 The emergence of these navigation apps,road checking during seasonal changes from summer to fall , traffic reduction by using public transport during busy hours can decrease the car crashes to an extent ...
 column description are given below:
+
 year : the year of accident
+
 month:month of accident
+
 day : day of accident
+
 hour : time of accident
+
 weekend? : whether the day was weekend or not ?
+
 collission type : how did the crash occur?
+
 injury type : type of injury
+
 primary factor : main reason of the crash
+
 reported location : the place of the car crash
+
 latitude : latitude of the crash location
+
 longitude : longitude of the crash location
 
 conclusions : 
